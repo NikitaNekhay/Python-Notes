@@ -1,2 +1,2 @@
 # slp1
-СЯП-ЛАБЫ
+A lot of practice works in Python during studies in BSUIR
